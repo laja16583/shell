@@ -4889,9 +4889,5 @@ curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
 $result = curl_exec($curl); 
 echo $result;
 ?></br>
-<div style="display:none;"
-<ul>
-<li><a href="https://bansos2026.com/" title="bansos2026.com">bansos2026.com</a></li>
-<li><a href="https://vapeworld.com.au/uwell-caliburn-g4-review/" title="BARIS4D">BARIS4D</a></li>
 </div>
 </html>
